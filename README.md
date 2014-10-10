@@ -1,4 +1,4 @@
 nsoss
 =====
 
-seajs项目 界面组件使用BUI、Bootstrap
+seajs项目 前端 BUI、Bootstrap 后台 springMVC+myBatis
